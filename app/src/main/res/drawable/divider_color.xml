@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- divider_color.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <size android:height="1dp" /> <!-- Defina a espessura da linha de divisão aqui -->
+    <solid android:color="#FFFF" /> <!-- Substitua #FF0000 pela cor desejada em formato hexadecimal -->
+</shape>
